@@ -8,7 +8,6 @@ Pastikan file project ini sudah di download atau di clone
 
 1. Buat database MySQL:
 
-```sql
 CREATE DATABASE nodejs_crud_restapi;
 
 
