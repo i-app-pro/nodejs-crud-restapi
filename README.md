@@ -75,7 +75,7 @@ Response:
 
 1. categories
 
-get categories (screenshot/get-categories.png)
+![get categories] (screenshot/get-categories.png)
 
 get categories by id (screenshot/get-categories-id.png)
 
