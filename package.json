@@ -1,0 +1,16 @@
+{
+  "name": "node_c",
+  "version": "1.0.0",
+  "description": "MEMBUAT OPERASI CRUD DENGAN EXPRESS",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mysql2": "^3.16.0",
+    "nodemon": "^3.1.11"
+  }
+}
