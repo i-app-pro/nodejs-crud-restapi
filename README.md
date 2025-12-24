@@ -73,27 +73,38 @@ Response:
 
 ## 5. Testing API
 
-1. categories
+### Categories
 
-![get categories] (screenshot/get-categories.png)
+- get categories  
+  ![Get Categories](screenshot/get-categories.png)
 
-get categories by id (screenshot/get-categories-id.png)
+- get categories by id  
+  ![Get Categories by ID](screenshot/get-categories-id.png)
 
-post categories create new (screenshot/post-categories-create.png)
+- post categories create new  
+  ![Post Categories](screenshot/post-categories-create.png)
 
-put categories update by id (screenshot/put-categories-update.png)
+- put categories update by id  
+  ![Put Categories](screenshot/put-categories-update.png)
 
-delete categories by id (screenshot/delete-categories-id.png)
+- delete categories by id  
+  ![Delete Categories](screenshot/delete-categories-id.png)
 
 
-2. products
+### Products
 
-get products (screenshot/get-products.png)
+- get products  
+  ![Get Products](screenshot/get-products.png)
 
-get products by id (screenshot/get-products-id.png)
+- get products by id  
+  ![Get Products by ID](screenshot/get-products-id.png)
 
-post products create new (screenshot/post-products-create.png)
+- post products create new  
+  ![Post Products](screenshot/post-products-create.png)
 
-put products update by id (screenshot/put-products-update.png)
+- put products update by id  
+  ![Put Products](screenshot/put-products-update.png)
 
-delete products by id (screenshot/delete-products-id.png)
+- delete products by id  
+  ![Delete Products](screenshot/delete-products-id.png)
+
